@@ -1,0 +1,18 @@
+.demo-layout-transparent 
+{
+    background: url('images/bridge.jpeg') center / cover;
+    border-radius: 10%;
+    object-position: center;
+    border-style: ridge;
+    opacity: 1;
+}
+img.crop-image
+{
+    border-radius: 10%;
+    border-style: ridge;
+    width: 250px;
+    height: 200px;
+    padding: 3px;
+    opacity: 0.5;
+    
+}
